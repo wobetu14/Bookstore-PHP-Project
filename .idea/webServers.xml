@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="49b0e4e7-5b5d-4c9d-bad4-a4c9487cdf44" name="SIMS Server" url="http://10.129.9.2">
+        <fileTransfer host="10.129.9.2" port="2222" rootFolder="/var/www/html/registrar" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="2222" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
